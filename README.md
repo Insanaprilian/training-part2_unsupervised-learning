@@ -1,4 +1,4 @@
-# training_unsupervised-learning
+# training-part2_unsupervised-learning
 part 2 of Insan's training on unsupervised learning. This repo consist of specific python case for:
 - DBSCAN
 - Principal component analysis (comparison with conventional feature selection)
